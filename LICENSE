@@ -1,6 +1,9 @@
 MIT License
 
-Copyright (c) 2025 Quoc-Viet-Anh Tran
+Copyright (c) 2025 Team NNN - CAFA6 Protein Function Prediction
+- Tran Quoc Viet Anh (23021471)
+- Duong Gia Bao (23021475)
+- Le Duc Anh (23021463)
 
 Permission is hereby granted, free of charge, to any person obtaining a copy
 of this software and associated documentation files (the "Software"), to deal
@@ -19,3 +22,20 @@ AUTHORS OR COPYRIGHT HOLDERS BE LIABLE FOR ANY CLAIM, DAMAGES OR OTHER
 LIABILITY, WHETHER IN AN ACTION OF CONTRACT, TORT OR OTHERWISE, ARISING FROM,
 OUT OF OR IN CONNECTION WITH THE SOFTWARE OR THE USE OR OTHER DEALINGS IN THE
 SOFTWARE.
+
+---
+
+ADDITIONAL NOTES:
+
+This project incorporates and adapts code from the following sources:
+
+1. "CAFA5 Using ProtBERT Embeds" by Siddhvr
+   Source: https://www.kaggle.com/code/siddhvr/cafa5-using-protbert-embeds
+   License: Apache 2.0 (Kaggle default)
+
+2. "CAFA-6 Blend GOA Negative Propagation" by Seddik TRK
+   Source: https://www.kaggle.com/code/seddiktrk/cafa-6-blend-goa-negative-propagation
+   License: Apache 2.0 (Kaggle default)
+
+These adapted components retain their original licenses and are used in accordance
+with their respective terms.
